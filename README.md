@@ -57,3 +57,20 @@ This repository currently serves as a public development portfolio. The prototyp
 ## Disclaimer
 
 Magical Empire Voice is an independent community project and is not an official Path of Titans or Alderon Games product.
+
+
+---
+
+## 📸 Early Development Screenshots
+
+These photos document the early development of Magical Empire Voice.
+
+### 🎙️ Voice Chat Interface
+
+![Magical Empire Voice Prototype](rn_image_picker_lib_temp_6251e0a8-473a-4a9c-88bd-e68afcc76851.jpg)
+
+### 💻 Behind the Scenes — Development
+
+![Magical Empire Voice Development](rn_image_picker_lib_temp_f9bc2e98-859e-40a0-817e-03d5821ac21d.jpg)
+
+*These screenshots show an early version of the prototype. Multiplayer proximity voice functionality was successfully tested during later development.*
